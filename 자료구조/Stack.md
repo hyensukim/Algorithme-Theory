@@ -13,21 +13,6 @@ Stack 자료구조는 처음 들어온 데이터가 마지막에 나가는 후�
 ## 2. Stack 인터페이스에 선언된 대표 메서드
 | 메소드              | 리턴타입    | 설명                                                                  |
 |------------------|---------|---------------------------------------------------------------------|
-| add(E e)         | boolean | 요소를 꼬리에 추가한다. 만약 큐가 모두 찼을 경우<br/>IllegalStateException 예외 발생        |
-| offer(E e)       | boolean | 요소를 꼬리에 추가한다. 만약 큐가 모두 찼을 경우에도<br/>IllegalStateException 예외 발생하지 않음 |
-| peek()           | E       | 헤드를 삭제하지 않고 검색하여 요소를 반환                                             |
-| poll()           | E       | 헤드를 검색 및 삭제하면서 요소를 반환                                               |
-| addLast(E e)     | void    | 요소를 꼬리에 추가한다. 만약 큐가 모두 찼을 경우<br/>IllegalStateException 예외 발생        |
-| addFirst(E e)    | void    | 요소를 헤드에 추가한다. 만약 큐가 모두 찼을 경우<br/>IllegalStateException 예외 발생        |
-| offerLast(E e)   | boolean | 요소를 꼬리에 추가                                                          |
-| offerFirst(E e)  | boolean | 요소를 헤드에 추가                                                          |
-| peekFirst()      | E       | 헤드에 있는 요소를 삭제하지 않고 반환                                               |
-| peekLast()       | E       | 꼬리에 있는 요소를 삭제하지 않고 반환                                               |
-| pollFirst()      | E       | 헤드를 검색 및 삭제하면서 요소를 반환                                               |
-| pollLast()       | E       | 꼬리를 검색 및 삭제하면서 요소를 반환                                               |
-| size()           | int     | 요소의 개수를 반환                                                          |
-|                  |         |                                                                     |
-| 메소드              | 리턴타입    | 설명                                                                  |
 | push(E item)     | E       | 스택의 맨 위에 요소를 추가                                                     |
 | pop()            | E       | 스택의 맨위의 요소를 제거한 뒤 반환                                                |
 | peek()           | E       | 스택의 맨위의 요소를 제거하지 않고 반환                                              |
