@@ -1,0 +1,140 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "src.day_240404.추월_2002.Main",
+            "projectName": "7. algorithm_533fc59a"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "src.day_240404.카드합체놀이_15903.Main",
+            "projectName": "7. algorithm_533fc59a"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "src.day_240404.엔번째큰수_2075.Main",
+            "projectName": "7. algorithm_533fc59a"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "src.day_240404.패션왕신해빈_9375.Main",
+            "projectName": "7. algorithm_533fc59a"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "src.day_240403.탑_2493.Main",
+            "projectName": "7. algorithm_533fc59a"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "src.day_240403.풍선터뜨리기_2346.Main",
+            "projectName": "7. algorithm_533fc59a"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "src.day_240403.프린터큐_1966.Main",
+            "projectName": "7. algorithm_533fc59a"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "7. algorithm_533fc59a"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "src.Main",
+            "projectName": "7. algorithm_533fc59a"
+        },
+        {
+            "type": "java",
+            "name": "원시타입초기화값",
+            "request": "launch",
+            "mainClass": "src.test.원시타입초기화값",
+            "projectName": "알고리즘_17b29cb4"
+        },
+        {
+            "type": "java",
+            "name": "trim테스트",
+            "request": "launch",
+            "mainClass": "src.test.trim테스트",
+            "projectName": "알고리즘_17b29cb4"
+        },
+        {
+            "type": "java",
+            "name": "퀵정렬",
+            "request": "launch",
+            "mainClass": "src.test.퀵정렬",
+            "projectName": "알고리즘_17b29cb4"
+        },
+        {
+            "type": "java",
+            "name": "CountingSort",
+            "request": "launch",
+            "mainClass": "src.test.CountingSort",
+            "projectName": "알고리즘_17b29cb4"
+        },
+        {
+            "type": "java",
+            "name": "선행후행증감테스트",
+            "request": "launch",
+            "mainClass": "src.test.선행후행증감테스트",
+            "projectName": "알고리즘_17b29cb4"
+        },
+        {
+            "type": "java",
+            "name": "카운팅정렬",
+            "request": "launch",
+            "mainClass": "src.test.카운팅정렬",
+            "projectName": "알고리즘_17b29cb4"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Example",
+            "request": "launch",
+            "mainClass": "src.Example",
+            "projectName": "알고리즘_17b29cb4"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "src.Main",
+            "projectName": "알고리즘_17b29cb4"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "src.Test",
+            "projectName": "알고리즘_17b29cb4"
+        }
+    ]
+}
