@@ -1,140 +1,679 @@
 {
-    // Use IntelliSense to learn about possible attributes.
-    // Hover to view descriptions of existing attributes.
-    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
-    "version": "0.2.0",
-    "configurations": [
-        {
-            "type": "java",
-            "name": "Main",
-            "request": "launch",
-            "mainClass": "src.day_240404.추월_2002.Main",
-            "projectName": "7. algorithm_533fc59a"
-        },
-        {
-            "type": "java",
-            "name": "Main",
-            "request": "launch",
-            "mainClass": "src.day_240404.카드합체놀이_15903.Main",
-            "projectName": "7. algorithm_533fc59a"
-        },
-        {
-            "type": "java",
-            "name": "Main",
-            "request": "launch",
-            "mainClass": "src.day_240404.엔번째큰수_2075.Main",
-            "projectName": "7. algorithm_533fc59a"
-        },
-        {
-            "type": "java",
-            "name": "Main",
-            "request": "launch",
-            "mainClass": "src.day_240404.패션왕신해빈_9375.Main",
-            "projectName": "7. algorithm_533fc59a"
-        },
-        {
-            "type": "java",
-            "name": "Main",
-            "request": "launch",
-            "mainClass": "src.day_240403.탑_2493.Main",
-            "projectName": "7. algorithm_533fc59a"
-        },
-        {
-            "type": "java",
-            "name": "Main",
-            "request": "launch",
-            "mainClass": "src.day_240403.풍선터뜨리기_2346.Main",
-            "projectName": "7. algorithm_533fc59a"
-        },
-        {
-            "type": "java",
-            "name": "Main",
-            "request": "launch",
-            "mainClass": "src.day_240403.프린터큐_1966.Main",
-            "projectName": "7. algorithm_533fc59a"
-        },
-        {
-            "type": "java",
-            "name": "Main",
-            "request": "launch",
-            "mainClass": "Main",
-            "projectName": "7. algorithm_533fc59a"
-        },
-        {
-            "type": "java",
-            "name": "Main",
-            "request": "launch",
-            "mainClass": "src.Main",
-            "projectName": "7. algorithm_533fc59a"
-        },
-        {
-            "type": "java",
-            "name": "원시타입초기화값",
-            "request": "launch",
-            "mainClass": "src.test.원시타입초기화값",
-            "projectName": "알고리즘_17b29cb4"
-        },
-        {
-            "type": "java",
-            "name": "trim테스트",
-            "request": "launch",
-            "mainClass": "src.test.trim테스트",
-            "projectName": "알고리즘_17b29cb4"
-        },
-        {
-            "type": "java",
-            "name": "퀵정렬",
-            "request": "launch",
-            "mainClass": "src.test.퀵정렬",
-            "projectName": "알고리즘_17b29cb4"
-        },
-        {
-            "type": "java",
-            "name": "CountingSort",
-            "request": "launch",
-            "mainClass": "src.test.CountingSort",
-            "projectName": "알고리즘_17b29cb4"
-        },
-        {
-            "type": "java",
-            "name": "선행후행증감테스트",
-            "request": "launch",
-            "mainClass": "src.test.선행후행증감테스트",
-            "projectName": "알고리즘_17b29cb4"
-        },
-        {
-            "type": "java",
-            "name": "카운팅정렬",
-            "request": "launch",
-            "mainClass": "src.test.카운팅정렬",
-            "projectName": "알고리즘_17b29cb4"
-        },
-        {
-            "type": "java",
-            "name": "Current File",
-            "request": "launch",
-            "mainClass": "${file}"
-        },
-        {
-            "type": "java",
-            "name": "Example",
-            "request": "launch",
-            "mainClass": "src.Example",
-            "projectName": "알고리즘_17b29cb4"
-        },
-        {
-            "type": "java",
-            "name": "Main",
-            "request": "launch",
-            "mainClass": "src.Main",
-            "projectName": "알고리즘_17b29cb4"
-        },
-        {
-            "type": "java",
-            "name": "Test",
-            "request": "launch",
-            "mainClass": "src.Test",
-            "projectName": "알고리즘_17b29cb4"
-        }
-    ]
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "day_241204.problem_1037.Main",
+      "projectName": "6. algorithme_7d74588b"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "day_241204.Main",
+      "projectName": "6. algorithme_7d74588b"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "day_241201.dfs2.Main",
+      "projectName": "6. algorithme_7d74588b"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "day_241201.Main",
+      "projectName": "6. algorithme_7d74588b"
+    },
+    {
+      "type": "java",
+      "name": "Collections사이즈감소테스트",
+      "request": "launch",
+      "mainClass": "test.Collections사이즈감소테스트",
+      "projectName": "6. algorithme_7d74588b"
+    },
+    {
+      "type": "java",
+      "name": "trim테스트",
+      "request": "launch",
+      "mainClass": "test.trim테스트",
+      "projectName": "6. algorithme_7d74588b"
+    },
+    {
+      "type": "java",
+      "name": "부동소수점테스트",
+      "request": "launch",
+      "mainClass": "test.부동소수점테스트",
+      "projectName": "6. algorithme_7d74588b"
+    },
+    {
+      "type": "java",
+      "name": "선행후행증감테스트",
+      "request": "launch",
+      "mainClass": "test.선행후행증감테스트",
+      "projectName": "6. algorithme_7d74588b"
+    },
+    {
+      "type": "java",
+      "name": "문자열추출",
+      "request": "launch",
+      "mainClass": "test.문자열추출",
+      "projectName": "6. algorithme_7d74588b"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "day_241006.Main",
+      "projectName": "6. algorithme_7d74588b"
+    },
+    {
+      "type": "java",
+      "name": "Case2",
+      "request": "launch",
+      "mainClass": "day_240928.Case2",
+      "projectName": "6. algorithme_7d74588b"
+    },
+    {
+      "type": "java",
+      "name": "Case1",
+      "request": "launch",
+      "mainClass": "day_240928.Case1",
+      "projectName": "6. algorithme_7d74588b"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "day_240928.Main",
+      "projectName": "6. algorithme_7d74588b"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "day_240925.Main",
+      "projectName": "6. algorithme_7d74588b"
+    },
+    {
+      "type": "java",
+      "name": "Case2",
+      "request": "launch",
+      "mainClass": "day_240922.Case2",
+      "projectName": "6. algorithme_7d74588b"
+    },
+    {
+      "type": "java",
+      "name": "Case1",
+      "request": "launch",
+      "mainClass": "day_240922.Case1",
+      "projectName": "6. algorithme_7d74588b"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "day_240922.Main",
+      "projectName": "6. algorithme_7d74588b"
+    },
+    {
+      "type": "java",
+      "name": "Case1",
+      "request": "launch",
+      "mainClass": "Case1",
+      "projectName": "6. algorithme_7d74588b"
+    },
+    {
+      "type": "java",
+      "name": "Case1",
+      "request": "launch",
+      "mainClass": "day_240919.Case1",
+      "projectName": "6. algorithme_7d74588b"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "day_240919.Main",
+      "projectName": "6. algorithme_7d74588b"
+    },
+    {
+      "type": "java",
+      "name": "Case1",
+      "request": "launch",
+      "mainClass": "day_240914.Case1",
+      "projectName": "6. algorithme_7d74588b"
+    },
+    {
+      "type": "java",
+      "name": "Case2",
+      "request": "launch",
+      "mainClass": "day_240913.Case2",
+      "projectName": "6. algorithme_7d74588b"
+    },
+    {
+      "type": "java",
+      "name": "Case1",
+      "request": "launch",
+      "mainClass": "day_240913.Case1",
+      "projectName": "6. algorithme_7d74588b"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "day_240912.Main",
+      "projectName": "6. algorithme_7d74588b"
+    },
+    {
+      "type": "java",
+      "name": "Case1",
+      "request": "launch",
+      "mainClass": "day_240912.Case1",
+      "projectName": "6. algorithme_7d74588b"
+    },
+    {
+      "type": "java",
+      "name": "Case1",
+      "request": "launch",
+      "mainClass": "day_240911.Case1",
+      "projectName": "6. algorithme_7d74588b"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "day_240911.Main",
+      "projectName": "6. algorithme_7d74588b"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "day_240822.Main",
+      "projectName": "6. algorithme_7d74588b"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "day_240819.Main",
+      "projectName": "6. algorithme_7d74588b"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "day_240818.Main",
+      "projectName": "6. algorithme_7d74588b"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "day_240817.Main",
+      "projectName": "6. algorithme_7d74588b"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "day_240816.Main",
+      "projectName": "6. algorithme_7d74588b"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "day_240813.Main",
+      "projectName": "6. algorithme_7d74588b"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "Main",
+      "projectName": "6. algorithme_7d74588b"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "day_240628.Main",
+      "projectName": "algorithme_4b12cb4"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "day_240527.카드역배치_10804.Main",
+      "projectName": "algorithme_4b12cb4"
+    },
+    {
+      "type": "java",
+      "name": "callbyvaluetest",
+      "request": "launch",
+      "mainClass": "test.callbyvaluetest",
+      "projectName": "algorithme_4b12cb4"
+    },
+    {
+      "type": "java",
+      "name": "시간차이테스트",
+      "request": "launch",
+      "mainClass": "test.시간차이테스트",
+      "projectName": "algorithme_4b12cb4"
+    },
+    {
+      "type": "java",
+      "name": "인가코드생성",
+      "request": "launch",
+      "mainClass": "test.인가코드생성",
+      "projectName": "algorithme_4b12cb4"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "day_240416.센서_2212.Main",
+      "projectName": "algorithme_4b12cb4"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "day_240416.해킹_10282.Main",
+      "projectName": "algorithme_4b12cb4"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "day_240415.후보추천하기_1713.Main",
+      "projectName": "algorithme_4b12cb4"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "day_240415.A와B2_12919.Main",
+      "projectName": "algorithme_4b12cb4"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "day_240415.택배배송_5972.Main",
+      "projectName": "algorithme_4b12cb4"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "day_240415.주유소_13305.Main",
+      "projectName": "algorithme_4b12cb4"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "day_240414.PutoPuyo_11559.Main",
+      "projectName": "algorithme_4b12cb4"
+    },
+    {
+      "type": "java",
+      "name": "Main2",
+      "request": "launch",
+      "mainClass": "day_240414.부분수열의합_1182.Main2",
+      "projectName": "algorithme_4b12cb4"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "day_240414.부분수열의합_1182.Main",
+      "projectName": "algorithme_4b12cb4"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "day_240413.동전1_2293.Main",
+      "projectName": "algorithme_4b12cb4"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "day_240413.가장긴감소하는부분수열_11722.Main",
+      "projectName": "algorithme_4b12cb4"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "day_240412.최소비용구하기_1916.Main",
+      "projectName": "algorithme_4b12cb4"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "day_240412.회의실배정_1931.Main",
+      "projectName": "algorithme_4b12cb4"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "day_240411.마법상어와비바라기_21610.Main",
+      "projectName": "algorithme_4b12cb4"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "day_240411.거북이_8911.Main",
+      "projectName": "algorithme_4b12cb4"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "day_240411.아기상어2_17086.Main",
+      "projectName": "algorithme_4b12cb4"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "day_240410.리모컨_1107.Main",
+      "projectName": "algorithme_4b12cb4"
+    },
+    {
+      "type": "java",
+      "name": "Combination",
+      "request": "launch",
+      "mainClass": "test.Combination",
+      "projectName": "algorithme_4b12cb4"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "day_240410.외판원순회2_10971.Main",
+      "projectName": "algorithme_4b12cb4"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "day_240410.부분수열의합_1182.Main",
+      "projectName": "algorithme_4b12cb4"
+    },
+    {
+      "type": "java",
+      "name": "comparable테스트",
+      "request": "launch",
+      "mainClass": "test.comparable테스트",
+      "projectName": "algorithme_4b12cb4"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "day_240409.스카이라인쉬운거_1863.Main",
+      "projectName": "algorithme_4b12cb4"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "day_240409.파일합치기3_13975.Main",
+      "projectName": "algorithme_4b12cb4"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "day_240409.숨바꼭질_1697.Main",
+      "projectName": "algorithme_4b12cb4"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "day_240408.나이트의이동_7562.Main",
+      "projectName": "algorithme_4b12cb4"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "day_240408.적록색약_10026.Main",
+      "projectName": "algorithme_4b12cb4"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "day_240408.알고리즘수업_너비우선탐색1_24444.Main",
+      "projectName": "algorithme_4b12cb4"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "day_240408.알고리즘수업_깊이우선탐색1_24479.Main",
+      "projectName": "algorithme_4b12cb4"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "day_240407.AC_5430.Main",
+      "projectName": "algorithme_4b12cb4"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "day_240406.센티와마법의뿅망치_19638.Main",
+      "projectName": "algorithme_4b12cb4"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "day_240406.창고다각형_2304.Main",
+      "projectName": "algorithme_4b12cb4"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "day_240406.통계학_2108.Main",
+      "projectName": "algorithme_4b12cb4"
+    },
+    {
+      "type": "java",
+      "name": "부동소수점테스트",
+      "request": "launch",
+      "mainClass": "test.부동소수점테스트",
+      "projectName": "algorithme_4b12cb4"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "day_240406.게임_1072.Main",
+      "projectName": "algorithme_4b12cb4"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "day_240405.입국심사_3079.Main",
+      "projectName": "algorithme_4b12cb4"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "old.Main",
+      "projectName": "algorithme_4b12cb4"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "day_240405.나무자르기_2805.Main",
+      "projectName": "algorithme_4b12cb4"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "day_240405.에이티엠_1399.Main",
+      "projectName": "algorithme_4b12cb4"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "src.day_240404.추월_2002.Main",
+      "projectName": "7. algorithm_533fc59a"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "src.day_240404.카드합체놀이_15903.Main",
+      "projectName": "7. algorithm_533fc59a"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "src.day_240404.엔번째큰수_2075.Main",
+      "projectName": "7. algorithm_533fc59a"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "src.day_240404.패션왕신해빈_9375.Main",
+      "projectName": "7. algorithm_533fc59a"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "src.day_240403.탑_2493.Main",
+      "projectName": "7. algorithm_533fc59a"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "src.day_240403.풍선터뜨리기_2346.Main",
+      "projectName": "7. algorithm_533fc59a"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "src.day_240403.프린터큐_1966.Main",
+      "projectName": "7. algorithm_533fc59a"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "Main",
+      "projectName": "7. algorithm_533fc59a"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "src.Main",
+      "projectName": "7. algorithm_533fc59a"
+    },
+    {
+      "type": "java",
+      "name": "원시타입초기화값",
+      "request": "launch",
+      "mainClass": "src.test.원시타입초기화값",
+      "projectName": "알고리즘_17b29cb4"
+    },
+    {
+      "type": "java",
+      "name": "trim테스트",
+      "request": "launch",
+      "mainClass": "src.test.trim테스트",
+      "projectName": "알고리즘_17b29cb4"
+    },
+    {
+      "type": "java",
+      "name": "퀵정렬",
+      "request": "launch",
+      "mainClass": "src.test.퀵정렬",
+      "projectName": "알고리즘_17b29cb4"
+    },
+    {
+      "type": "java",
+      "name": "CountingSort",
+      "request": "launch",
+      "mainClass": "src.test.CountingSort",
+      "projectName": "알고리즘_17b29cb4"
+    },
+    {
+      "type": "java",
+      "name": "선행후행증감테스트",
+      "request": "launch",
+      "mainClass": "src.test.선행후행증감테스트",
+      "projectName": "알고리즘_17b29cb4"
+    },
+    {
+      "type": "java",
+      "name": "카운팅정렬",
+      "request": "launch",
+      "mainClass": "src.test.카운팅정렬",
+      "projectName": "알고리즘_17b29cb4"
+    },
+    {
+      "type": "java",
+      "name": "Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "Example",
+      "request": "launch",
+      "mainClass": "src.Example",
+      "projectName": "알고리즘_17b29cb4"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "src.Main",
+      "projectName": "알고리즘_17b29cb4"
+    },
+    {
+      "type": "java",
+      "name": "Test",
+      "request": "launch",
+      "mainClass": "src.Test",
+      "projectName": "알고리즘_17b29cb4"
+    }
+  ]
 }

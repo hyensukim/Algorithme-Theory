@@ -1,4 +1,4 @@
-package src.day_240403.탑_2493;
+package day_240403.탑_2493;
 
 import java.io.*;
 import java.util.*;
