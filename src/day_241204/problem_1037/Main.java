@@ -6,6 +6,12 @@ import java.io.InputStreamReader;
 import java.util.Arrays;
 import java.util.StringTokenizer;
 
+/**
+ * 1037번
+ * 수학, 정수론
+ * 14408 KB
+ * 104ms
+ */
 public class Main{
     
     public static void main(String[] args)throws IOException{
