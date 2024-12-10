@@ -8,6 +8,20 @@
       "type": "java",
       "name": "Main",
       "request": "launch",
+      "mainClass": "day_241210.problem_2504_review.Main",
+      "projectName": "6. algorithme_7d74588b"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "day_241210.problem_1212.Main",
+      "projectName": "6. algorithme_7d74588b"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
       "mainClass": "day_241209.problem_2504.Main",
       "projectName": "6. algorithme_7d74588b"
     },
