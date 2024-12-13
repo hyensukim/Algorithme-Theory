@@ -6,6 +6,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Case",
+      "request": "launch",
+      "mainClass": "day_241213.problem_1225.Case",
+      "projectName": "6. algorithme_7d74588b"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "day_241213.problem_1225.Main",
+      "projectName": "6. algorithme_7d74588b"
+    },
+    {
+      "type": "java",
       "name": "Main",
       "request": "launch",
       "mainClass": "day_241210.problem_2504_review.Main",
